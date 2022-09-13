@@ -1,3 +1,4 @@
+use LojaTodo5;
 
 
 UPDATE Produtos SET cor = "BRANCO" WHERE id_produto=5;
